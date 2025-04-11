@@ -1,0 +1,30 @@
+{
+  "apps": [
+    {
+      "package": "com.google.android.youtube",
+      "activity": "com.google.android.youtube.app.honeycomb.Shell$HomeActivity",
+      "screens": {
+        "feed": {
+          "navigate": []
+        },
+        "search": {
+          "navigate": [
+              {"action": "tap", "bounds": "[0,0][1440,420]"}
+            ]
+        },
+        "shorts": {
+          "navigate": [
+              {"action": "tap", "bounds": "[390,2886][474,2970]"}
+            ]
+        },
+        "video": {
+          "navigate": [
+              {"action": "tap", "bounds": "[966,2886][1050,2970]"},
+              {"action": "tap", "bounds": "[0,784][1440,1594]"}
+            ]
+        }
+      }
+    }
+  ]
+}
+
