@@ -2,8 +2,8 @@
 
 ### Prerequisites
 
-[Android Studio with Emulator](https://developer.android.com/studio?hl=ko)   
-[Appium](https://appium.io/docs/en/latest/)
+- [Android Studio with Emulator](https://developer.android.com/studio?hl=ko)   
+- [Appium](https://appium.io/docs/en/latest/)
 
 ### Setup
 ```
