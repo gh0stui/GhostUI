@@ -3,7 +3,7 @@
 A Next.js web application for annotating, validating, and analyzing mobile UI interaction datasets collected by the ***GhostUI*** project.
 
 ## Overview
-![Image](https://github.com/user-attachments/assets/72fc6699-17ff-4485-a3f3-ec631ecfd639)
+![Image](https://github.com/user-attachments/assets/d54fa609-8d28-41d7-af54-bd863db42a45)
 
 This web interface provides a comprehensive platform for researchers to:
 - Browse and filter interaction datasets
