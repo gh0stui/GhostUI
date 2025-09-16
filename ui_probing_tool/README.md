@@ -1,6 +1,6 @@
 # UI Probing Tool
 ### Overview
-![Image](https://github.com/user-attachments/assets/4e3c589e-8e1f-446e-97a9-b4e011861425)
+![Image](https://github.com/user-attachments/assets/3e338c97-d1b5-4fe2-ac18-706ca6081a8e)
 ### Prerequisites
 
 - [Android Studio with Emulator](https://developer.android.com/studio?hl=ko)   
