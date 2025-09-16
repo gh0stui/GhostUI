@@ -1,0 +1,7 @@
+numpy==2.2.3
+Pillow==11.1.0
+opencv-python==4.11.0.86
+requests==2.32.3
+selenium==4.27.1
+bs4==0.0.2
+Appium-Python-Client==4.4.0
