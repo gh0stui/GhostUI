@@ -2,7 +2,7 @@
 
 ***GhostUI*** is the first comprehensive dataset specifically designed to capture and analyze hidden interactions in mobile applications—interactions that lack visible cues but are triggered by gestures such as swipe, long press, or double tap.
 
-![Image](https://github.com/user-attachments/assets/d43b8594-e5a9-4bd3-b8fa-7d091fef15be)
+![Image](https://github.com/user-attachments/assets/b85a7df8-14d9-493a-a091-49310331acef)
 
 ## Overview
 
