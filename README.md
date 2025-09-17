@@ -1,5 +1,7 @@
 # *GhostUI*: Unveiling Hidden Interactions in Mobile UI
 
+[![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow)](https://huggingface.co/datasets/ghostui/ghostui)
+
 ***GhostUI*** is the first comprehensive dataset specifically designed to capture and analyze hidden interactions in mobile applications—interactions that lack visible cues but are triggered by gestures such as swipe, long press, or double tap.
 
 ![Image](https://github.com/user-attachments/assets/b85a7df8-14d9-493a-a091-49310331acef)
@@ -11,6 +13,12 @@ This repository contains the complete implementation of the *GhostUI* research p
 - **UI Probing Tool**: Automated tool for discovering interactions in mobile apps
 - **Dataset Annotation Interface**: Web-based tool for annotating and validating hidden interactions
 - **Validation Guidelines**: Structured framework for evaluating hidden interactions
+
+## Dataset
+The complete ***GhostUI*** dataset is available on Hugging Face:
+**[🔗 GhostUI Dataset](https://huggingface.co/datasets/ghostui/ghostui)**
+
+*The dataset contains *1,970* hidden interactions across *81* mobile applications.*
 
 ## Project Structure
 
