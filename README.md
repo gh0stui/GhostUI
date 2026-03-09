@@ -2,7 +2,7 @@
 
 [![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow)](https://huggingface.co/datasets/ghostui/ghostui)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.19258-b31b1b)](https://arxiv.org/abs/2601.19258)
-[![CHI 2026](https://img.shields.io/badge/CHI-2026-blue)](https://doi.org/10.1145/3772318.3790283)
+[![CHI 2026](https://img.shields.io/badge/CHI-2026-blue)](https://chi2026.acm.org/)
 
 ***GhostUI*** is the first comprehensive dataset specifically designed to capture and analyze hidden interactions in mobile applications—interactions that lack visible cues but are triggered by gestures such as swipe, long press, or double tap.
 
